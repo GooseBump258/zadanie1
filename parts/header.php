@@ -13,7 +13,7 @@
                     <a class="nav-link nav-link-1 active" aria-current="page" href="index.php">Photos</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link nav-link-2" href="videos.php">Videos</a>
+                    <a class="nav-link nav-link-2" href="videos.html">Videos</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link nav-link-3" href="about.php">About</a>
